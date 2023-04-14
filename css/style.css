@@ -2,8 +2,8 @@
 
 /* Mendaftarkan font ke dalam CSS, dan memberi nama family */
 @font-face {
-   font-family: 'Poppins';
-   src: url(../fonts/poppins.woff2);
+   font-family: 'Perpetua';
+   src: url(../fonts/Perpetua.woff2);
 }
 
 * {
@@ -19,7 +19,7 @@ html {
 
 body {
    /* mendaftarkan semua teks pada body menjadi family Poppins */
-   font-family: 'Poppins';
+   font-family: 'Perpetua';
 }
 
 a {
