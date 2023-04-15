@@ -37,5 +37,42 @@
             "harga": "150.000",
             "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
         }
+    ],
+    "kopi Gen-Z": [
+        {
+            "foto": "images/produk/kopi jahe.webp",
+            "nama": "ginger coffe",
+            "size": "100 Gram",
+            "harga": "500.000",
+            "link": "https://www.google.com/search?q=kopi+jahe&tbm=shop"
+        },
+        {
+            "foto": "images/produk/kopi lato.webp",
+            "nama": "Lato-lato caffe",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/kopi klepon.webp",
+            "nama": "caffe clephon",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/kopi greentea.webp",
+            "nama": "greentea caffee",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/milo.webp",
+            "nama": "milo hilo  love you",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
     ]
 }
