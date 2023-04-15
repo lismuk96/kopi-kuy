@@ -12,6 +12,12 @@
    padding: 0;
 }
 
+
+   header {
+
+  background-image: url(..images/menu special.png);
+}
+
 html {
    /* agar scroll ketika klik pada navigasi menjadi halus */
    scroll-behavior: smooth;
